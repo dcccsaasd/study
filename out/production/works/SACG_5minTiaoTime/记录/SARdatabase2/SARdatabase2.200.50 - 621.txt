@@ -1,0 +1,163 @@
+DataBase = 2, Initial1RouteNum = 200, NegativeReducedCostRouteNum = 50
+loop1
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 1860.0000000000007
+At AircNum :0, ReducedcostCost:-780.833333333333
+At AircNum :1, ReducedcostCost:-1280.833333333333
+At AircNum :2, ReducedcostCost:-839.9999999999998
+At AircNum :3, ReducedcostCost:-776.6666666666663
+At AircNum :4, ReducedcostCost:-1166.666666666666
+At AircNum :5, ReducedcostCost:-1166.6666666666658
+At AircNum :6, ReducedcostCost:-1042.4999999999995
+At AircNum :7, ReducedcostCost:-735.0
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 13.421999999962281
+
+loop2
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 640.0
+At AircNum :0, ReducedcostCost:-385.9090909090909
+At AircNum :1, ReducedcostCost:-404.99999999999994
+At AircNum :2, ReducedcostCost:-705.0
+At AircNum :3, ReducedcostCost:-713.1818181818181
+At AircNum :4, ReducedcostCost:-739.5454545454545
+At AircNum :5, ReducedcostCost:-762.2727272727273
+At AircNum :6, ReducedcostCost:-532.2727272727273
+At AircNum :7, ReducedcostCost:-480.9090909090909
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 16.81200000003446
+
+loop3
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 285.0
+At AircNum :0, ReducedcostCost:-189.99999999999991
+At AircNum :1, ReducedcostCost:-299.9999999999997
+At AircNum :2, ReducedcostCost:-294.99999999999983
+At AircNum :3, ReducedcostCost:-194.99999999999997
+At AircNum :4, ReducedcostCost:-209.99999999999991
+At AircNum :5, ReducedcostCost:-279.9999999999999
+At AircNum :6, ReducedcostCost:-239.99999999999994
+At AircNum :7, ReducedcostCost:-279.99999999999994
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 33.54699999996228
+
+loop4
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 284.9999999999999
+At AircNum :0, ReducedcostCost:-154.9999999999999
+At AircNum :1, ReducedcostCost:-225.0
+At AircNum :2, ReducedcostCost:-225.0
+At AircNum :3, ReducedcostCost:-70.0
+At AircNum :4, ReducedcostCost:-177.4999999999999
+At AircNum :5, ReducedcostCost:-177.49999999999991
+At AircNum :6, ReducedcostCost:-167.49999999999986
+At AircNum :7, ReducedcostCost:-225.0
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 29.15600000001723
+
+loop5
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 281.66666666666606
+At AircNum :0, ReducedcostCost:-18.333333333333385
+At AircNum :1, ReducedcostCost:-181.66666666666657
+At AircNum :2, ReducedcostCost:-329.1666666666665
+At AircNum :3, ReducedcostCost:-360.83333333333314
+At AircNum :4, ReducedcostCost:-374.9999999999999
+At AircNum :5, ReducedcostCost:-208.33333333333326
+At AircNum :6, ReducedcostCost:-223.33333333333314
+At AircNum :7, ReducedcostCost:-144.99999999999977
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 26.85999999998603
+
+loop6
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 195.0000000000001
+At AircNum :0, ReducedcostCost:-542.5000000000001
+At AircNum :1, ReducedcostCost:-145.0
+At AircNum :2, ReducedcostCost:-120.00000000000011
+At AircNum :3, ReducedcostCost:-150.00000000000006
+At AircNum :4, ReducedcostCost:-210.00000000000028
+At AircNum :5, ReducedcostCost:-207.50000000000017
+At AircNum :6, ReducedcostCost:-157.5
+At AircNum :7, ReducedcostCost:-182.50000000000023
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 32.79700000002049
+
+loop7
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 156.24999999999994
+At AircNum :0, ReducedcostCost:-245.00000000000006
+At AircNum :1, ReducedcostCost:-168.74999999999994
+At AircNum :2, ReducedcostCost:-225.0
+At AircNum :3, ReducedcostCost:-219.99999999999994
+At AircNum :4, ReducedcostCost:-192.49999999999994
+At AircNum :5, ReducedcostCost:-192.49999999999994
+At AircNum :6, ReducedcostCost:-193.7499999999999
+At AircNum :7, ReducedcostCost:-46.24999999999994
+After Column Generation SP
+AircReducedCost >0 Num = 0
+Loop use time 36.64000000001397
+
+loop8
+AircReducedCost >0 Num = 0/8
+Solve Lp:
+LpObj= 129.99999999999994
+At AircNum :0, ReducedcostCost:-24.99999999999997
+At AircNum :1, ReducedcostCost:-9.999999999999972
+At AircNum :2, ReducedcostCost:5.6843418860808015E-14
+At AircNum :3, ReducedcostCost:-24.999999999999943
+At AircNum :4, ReducedcostCost:-79.99999999999997
+At AircNum :5, ReducedcostCost:-79.99999999999997
+At AircNum :6, ReducedcostCost:-79.99999999999996
+At AircNum :7, ReducedcostCost:7.105427357601002E-15
+After Column Generation SP
+AircReducedCost >0 Num = 2
+Loop use time 30.155999999959022
+
+loop9
+AircReducedCost >0 Num = 2/8
+Solve Lp:
+LpObj= 95.0
+At AircNum :0, ReducedcostCost:-44.99999999999997
+At AircNum :1, ReducedcostCost:-45.0
+At AircNum :3, ReducedcostCost:2.8421709430404007E-14
+At AircNum :4, ReducedcostCost:-15.0
+At AircNum :5, ReducedcostCost:-15.0
+At AircNum :6, ReducedcostCost:-14.999999999999972
+After Column Generation SP
+AircReducedCost >0 Num = 3
+Loop use time 18.67200000002049
+
+loop10
+AircReducedCost >0 Num = 3/8
+Solve Lp:
+LpObj= 95.0
+At AircNum :0, ReducedcostCost:0.0
+At AircNum :1, ReducedcostCost:0.0
+At AircNum :4, ReducedcostCost:0.0
+At AircNum :5, ReducedcostCost:0.0
+At AircNum :6, ReducedcostCost:0.0
+After Column Generation SP
+AircReducedCost >0 Num = 8
+Loop use time 13.01600000000326
+
+Total use time 251.0779999999795
+IpStatus = Optimal
+IpObj = 119.99999999999946
+CancelNum= -2.6645352591003757E-15
+DelayTime= 120.0
+SwapNum= 16.000000000000007
+[471, 477, 9, 311, 225, 38, 503, 75]

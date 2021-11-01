@@ -1,0 +1,257 @@
+cp.setParameter(IloCP.IntParam.LogVerbosity, IloCP.ParameterValues.Quiet);
+        cp.setParameter(IloCP.IntParam.Workers, 1);//加速
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.MultiPoint);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.DepthFirst);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Restart);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Auto);
+        cp.setParameter(IloCP.DoubleParam.TimeLimit,4);
+
+
+cp.setParameter(IloCP.IntParam.LogVerbosity, IloCP.ParameterValues.Quiet);
+        cp.setParameter(IloCP.IntParam.Workers, 1);//加速
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.MultiPoint);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.DepthFirst);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Restart);
+        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Auto);
+        cp.setParameter(IloCP.DoubleParam.TimeLimit,3);
+        cp.startNewSearch();
+
+
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=52113:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG.GR -Xms128m -Xmx1024m -XX:MaxPermSize=512m
+loop1
+AirpTypeReducedCost >0 Num = 0
+Solve Lp:
+24.0
+At Airp :0, Type :0, ReducedcostCost:0.0
+At Airp :0, Type :1, ReducedcostCost:0.0
+At Airp :1, Type :0, ReducedcostCost:0.0
+At Airp :1, Type :1, ReducedcostCost:0.0
+At Airp :2, Type :0, ReducedcostCost:0.0
+At Airp :2, Type :1, ReducedcostCost:0.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-4.0
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 100 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 9 pattern(s)
+
+At Airp :4, Type :0, ReducedcostCost:0.0
+At Airp :4, Type :1, ReducedcostCost:0.0
+At Airp :5, Type :0, ReducedcostCost:0.0
+At Airp :5, Type :1, ReducedcostCost:0.0
+At Airp :6, Type :0, ReducedcostCost:0.0
+At Airp :6, Type :1, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 21.54700000002049
+
+loop2
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+20.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-1.0
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 1 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 5 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 14.375
+
+loop3
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+20.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.5
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 9 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 10 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 14.35899999999674
+
+loop4
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+20.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.5
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 12 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 9 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 14.327999999979511
+
+loop5
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+20.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.5
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 7 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 0 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 14.328000000037719
+
+loop6
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+19.5
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-1.0
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 2 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-0.5
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 100 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 12.671999999962281
+
+loop7
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+19.5
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.5
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 3 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-0.5
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 0 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 14.313000000023749
+
+loop8
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+19.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-1.0
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 100 pattern(s)
+
+
+Feasible
+At Airp :3, Type :1, ReducedcostCost:-1.0
+AirpID:3,GateType:1,LegNum:-1,forcedCoveredCF:-1,find 1 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 13.686999999976251
+
+loop9
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+18.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 39 pattern(s)
+
+At Airp :3, Type :1, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 11.26600000000326
+
+loop10
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+18.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 14 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 7.217999999993481
+
+loop11
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+18.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 3 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 7.204000000027008
+
+loop12
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+18.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.060606060606060774
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 20 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 7.217999999993481
+
+loop13
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+18.0
+
+Feasible
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+AirpID:3,GateType:0,LegNum:-1,forcedCoveredCF:-1,find 4 pattern(s)
+
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 7.2189999999827705
+
+loop14
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+18.0
+At Airp :3, Type :0, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 14
+Loop use time 4.14100000000326
+
+Total use time 163.875
+IPObj: 
+18.0
+
+Process finished with exit code 0
+

@@ -1,0 +1,1206 @@
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=63047:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG.GR -Xms128m -Xmx1024m -XX:MaxPermSize=512m
+[29, 75]
+[75, 300]
+[300, 225]
+[225, 275]
+[0, 50]
+[50, 125]
+[125, 175]
+[175, 200]
+[200, 250]
+[326, 376]
+[376, 426]
+[426, 476]
+[476, 501]
+[501, 551]
+[301, 351]
+[351, 401]
+[401, 451]
+[451, 526]
+[526, 576]
+[1, 50, 42, 1, 1, 63, 133, 1, 36, 98, 1, 23, 503, 1, 1, 1583, 1, 4, 1]
+[2, 51, 43, 2, 2, 64, 134, 2, 37, 99, 2, 24, 504, 2, 2, 1584, 2, 5, 2]
+Optimal
+22.0
+loop1
+AirpTypeReducedCost >0 Num = 0
+Solve Lp:
+Optimal
+22.0
+At Airp :0, Type :0, ReducedcostCost:0.0
+At Airp :0, Type :1, ReducedcostCost:0.0
+At Airp :1, Type :0, ReducedcostCost:-1.0
+At Airp :1, Type :1, ReducedcostCost:-1.0
+At Airp :2, Type :0, ReducedcostCost:0.0
+At Airp :2, Type :1, ReducedcostCost:0.0
+At Airp :3, Type :0, ReducedcostCost:-2.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+At Airp :4, Type :0, ReducedcostCost:0.0
+At Airp :4, Type :1, ReducedcostCost:0.0
+At Airp :5, Type :0, ReducedcostCost:0.0
+At Airp :5, Type :1, ReducedcostCost:0.0
+At Airp :6, Type :0, ReducedcostCost:0.0
+At Airp :6, Type :1, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 10
+Loop use time 54.546999999904074
+
+loop2
+AirpTypeReducedCost >0 Num = 10
+Solve Lp:
+Optimal
+22.0
+At Airp :1, Type :0, ReducedcostCost:0.0
+At Airp :1, Type :1, ReducedcostCost:0.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 40.40600000007544
+
+loop3
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+22.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop4
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.5
+At Airp :3, Type :0, ReducedcostCost:-0.5
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop5
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.5
+At Airp :3, Type :0, ReducedcostCost:-0.5
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.233999999938533
+
+loop6
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop7
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.20400000002701
+
+loop8
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.21799999999348
+
+loop9
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.23499999998603
+
+loop10
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-2.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.21799999999348
+
+loop11
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+21.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.23499999998603
+
+loop12
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+20.5
+At Airp :3, Type :0, ReducedcostCost:-0.5
+At Airp :3, Type :1, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop13
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+20.5
+At Airp :3, Type :0, ReducedcostCost:-1.5
+At Airp :3, Type :1, ReducedcostCost:-2.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop14
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+19.333333333333336
+At Airp :3, Type :0, ReducedcostCost:-1.0
+At Airp :3, Type :1, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 12
+Loop use time 20.25
+
+loop15
+AirpTypeReducedCost >0 Num = 12
+Solve Lp:
+Optimal
+19.333333333333336
+At Airp :3, Type :0, ReducedcostCost:-0.7222222222222225
+At Airp :3, Type :1, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 20.234000000054948
+
+loop16
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.333333333333332
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop17
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.333333333333336
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop18
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.333333333333332
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop19
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.333333333333332
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop20
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.333333333333332
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.140999999945052
+
+loop21
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.3999999999999999
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop22
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.000000000000004
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.171999999904074
+
+loop23
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop24
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop25
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop26
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.3076923076923075
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop27
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.186999999918044
+
+loop28
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop29
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop30
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop31
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop32
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop33
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.170999999972992
+
+loop34
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop35
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop36
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop37
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.75
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop38
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop39
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop40
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop41
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.6666666666666665
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop42
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop43
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.170999999972992
+
+loop44
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.188000000081956
+
+loop45
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.171999999904074
+
+loop46
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop47
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop48
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.038461538461538325
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop49
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop50
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop51
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop52
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop53
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.19444444444444442
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop54
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop55
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop56
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop57
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop58
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.219000000040978
+
+loop59
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop60
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.171999999904074
+
+loop61
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-1.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop62
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+19.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop63
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.10000000000000009
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.170999999972992
+
+loop64
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.749999999999996
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop65
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop66
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop67
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop68
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.204000000027008
+
+loop69
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop70
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop71
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.170999999972992
+
+loop72
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop73
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop74
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.75
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.171999999904074
+
+loop75
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.666666666666668
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop76
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.666666666666664
+At Airp :3, Type :0, ReducedcostCost:-1.666666666666667
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop77
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.666666666666664
+At Airp :3, Type :0, ReducedcostCost:-1.6666666666666665
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop78
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop79
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop80
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop81
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop82
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.75
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop83
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-2.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop84
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop85
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.09589041095890405
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop86
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.75
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop87
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.186999999918044
+
+loop88
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.333333333333333
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop89
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.6666666666666667
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.141000000061467
+
+loop90
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.140999999945052
+
+loop91
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop92
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.333333333333334
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop93
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop94
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop95
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop96
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.186999999918044
+
+loop97
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.219000000040978
+
+loop98
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop99
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop100
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.202999999979511
+
+loop101
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.15700000000652
+
+loop102
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop103
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.23499999998603
+
+loop104
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.014705882352941124
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187000000034459
+
+loop105
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.187999999965541
+
+loop106
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.25
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop107
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.16666666666666652
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop108
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.5
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.156000000075437
+
+loop109
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.3333333333333335
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.186999999918044
+
+loop110
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.20588235294117663
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop111
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.4285714285714286
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.172000000020489
+
+loop112
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.16666666666666652
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.155999999959022
+
+loop113
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-0.33333333333333326
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.188000000081956
+
+loop114
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:-1.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 13
+Loop use time 10.140999999945052
+
+loop115
+AirpTypeReducedCost >0 Num = 13
+Solve Lp:
+Optimal
+18.0
+At Airp :3, Type :0, ReducedcostCost:0.0
+After Column Generation SP
+AirpTypeReducedCost >0 Num = 14
+Loop use time 10.155999999959022
+
+Total use time 1375.546999999904
+
+Process finished with exit code 0

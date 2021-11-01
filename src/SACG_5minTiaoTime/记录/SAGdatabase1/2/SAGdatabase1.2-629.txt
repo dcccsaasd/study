@@ -1,0 +1,8200 @@
+1     LB=0 UB=19
+2     LB=10.75 UB=18
+3     LB=13.5 UB=18
+11   LB=15.5 UB=18
+
+
+
+
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=59036:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG.SAGR -Xms1024m -Xmx2048m -XX:MaxPermSize=512m
+---------------------------------
+Bigloop1
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.5319999999992433
+
+IpStatus = Optimal
+SARIpObj = 420.0
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 21.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 82.45300000000134
+ 
+SARq = 0.0, GRobj = 19.0
+LB = 0.0, UB= 19.0
+
+Having used time 114.15699999999924
+---------------------------------
+
+---------------------------------
+Bigloop2
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9839999999967404
+
+IpStatus = Optimal
+SARIpObj = 430.75
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 68.31200000000536
+ 
+SARq = 10.75, GRobj = 18.0
+LB = 10.75, UB= 18.0
+
+Having used time 212.95300000000134
+---------------------------------
+
+---------------------------------
+Bigloop3
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9850000000005821
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 42.96899999999732
+ 
+SARq = 13.5, GRobj = 18.0
+LB = 13.5, UB= 18.0
+
+Having used time 286.4850000000006
+---------------------------------
+
+---------------------------------
+Bigloop4
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9530000000013388
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRLP CG use time 116.63999999999942
+ 
+SARq = 13.5, GRobj = 18.0
+LB = 13.5, UB= 18.0
+
+Having used time 433.4380000000019
+---------------------------------
+
+---------------------------------
+Bigloop5
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.8899999999994179
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 36.25
+ 
+SARq = 13.5, GRobj = 19.0
+LB = 13.5, UB= 18.0
+
+Having used time 499.92199999999866
+---------------------------------
+
+---------------------------------
+Bigloop6
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9380000000019209
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 66.3440000000046
+ 
+SARq = 13.5, GRobj = 19.0
+LB = 13.5, UB= 18.0
+
+Having used time 596.5780000000013
+---------------------------------
+
+---------------------------------
+Bigloop7
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9539999999979045
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 83.64100000000326
+ 
+SARq = 13.5, GRobj = 18.0
+LB = 13.5, UB= 18.0
+
+Having used time 710.5939999999973
+---------------------------------
+
+---------------------------------
+Bigloop8
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 0.9380000000019209
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 88.25
+ 
+SARq = 13.5, GRobj = 19.0
+LB = 13.5, UB= 18.0
+
+Having used time 829.1100000000006
+---------------------------------
+
+---------------------------------
+Bigloop9
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.014999999999418
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 65.625
+ 
+SARq = 13.5, GRobj = 19.0
+LB = 13.5, UB= 18.0
+
+Having used time 925.0469999999987
+---------------------------------
+
+---------------------------------
+Bigloop10
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0
+
+IpStatus = Optimal
+SARIpObj = 433.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 51.812000000005355
+ 
+SARq = 13.5, GRobj = 19.0
+LB = 13.5, UB= 18.0
+
+Having used time 1007.2350000000006
+---------------------------------
+
+---------------------------------
+Bigloop11
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0309999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 75.125
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1112.8280000000013
+---------------------------------
+
+---------------------------------
+Bigloop12
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0159999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 79.70300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1223.0319999999992
+---------------------------------
+
+---------------------------------
+Bigloop13
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0460000000020955
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 94.6710000000021
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1348.1100000000006
+---------------------------------
+
+---------------------------------
+Bigloop14
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0619999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 49.90699999999924
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1428.4530000000013
+---------------------------------
+
+---------------------------------
+Bigloop15
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0939999999973224
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 60.59300000000076
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1519.4850000000006
+---------------------------------
+
+---------------------------------
+Bigloop16
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0619999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 50.43699999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1600.390999999996
+---------------------------------
+
+---------------------------------
+Bigloop17
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.125
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 34.31300000000192
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1665.188000000002
+---------------------------------
+
+---------------------------------
+Bigloop18
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.1089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 75.43700000000536
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1771.0939999999973
+---------------------------------
+
+---------------------------------
+Bigloop19
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.1410000000032596
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 73.90600000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1875.4850000000006
+---------------------------------
+
+---------------------------------
+Bigloop20
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.1559999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 52.25
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 1958.2189999999973
+---------------------------------
+
+---------------------------------
+Bigloop21
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.1880000000019209
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 52.5
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2041.313000000002
+---------------------------------
+
+---------------------------------
+Bigloop22
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.1869999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 91.68799999999464
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2163.5469999999987
+---------------------------------
+
+---------------------------------
+Bigloop23
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.2030000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 28.54699999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2222.688000000002
+---------------------------------
+
+---------------------------------
+Bigloop24
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.2339999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 50.96899999999732
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2304.25
+---------------------------------
+
+---------------------------------
+Bigloop25
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 78.07800000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2412.9689999999973
+---------------------------------
+
+---------------------------------
+Bigloop26
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.3130000000019209
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 20.218000000000757
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2463.875
+---------------------------------
+
+---------------------------------
+Bigloop27
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.2819999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 88.79699999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2583.313000000002
+---------------------------------
+
+---------------------------------
+Bigloop28
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.3119999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 50.90600000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2664.875
+---------------------------------
+
+---------------------------------
+Bigloop29
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.2969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 57.0940000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2752.640999999996
+---------------------------------
+
+---------------------------------
+Bigloop30
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.3280000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 48.6559999999954
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2832.0469999999987
+---------------------------------
+
+---------------------------------
+Bigloop31
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.360000000000582
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 71.68699999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2934.6100000000006
+---------------------------------
+
+---------------------------------
+Bigloop32
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.389999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 20.0940000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 2985.4850000000006
+---------------------------------
+
+---------------------------------
+Bigloop33
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.4059999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 75.53100000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3091.875
+---------------------------------
+
+---------------------------------
+Bigloop34
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.4219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 34.29699999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3157.0469999999987
+---------------------------------
+
+---------------------------------
+Bigloop35
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.4380000000019209
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 94.125
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3282.015999999996
+---------------------------------
+
+---------------------------------
+Bigloop36
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.4840000000040163
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 20.56300000000192
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3333.4689999999973
+---------------------------------
+
+---------------------------------
+Bigloop37
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.5310000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 39.56199999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3403.9850000000006
+---------------------------------
+
+---------------------------------
+Bigloop38
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.6869999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 87.875
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3523.0780000000013
+---------------------------------
+
+---------------------------------
+Bigloop39
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.6719999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 52.562000000005355
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3606.765999999996
+---------------------------------
+
+---------------------------------
+Bigloop40
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.562000000005355
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 44.75
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3682.4689999999973
+---------------------------------
+
+---------------------------------
+Bigloop41
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.5310000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 88.20300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3801.6100000000006
+---------------------------------
+
+---------------------------------
+Bigloop42
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.5619999999980791
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 83.92199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 3916.4850000000006
+---------------------------------
+
+---------------------------------
+Bigloop43
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.6089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.73399999999674
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4001.2189999999973
+---------------------------------
+
+---------------------------------
+Bigloop44
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.625
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 58.34399999999732
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4090.5780000000013
+---------------------------------
+
+---------------------------------
+Bigloop45
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.6409999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 42.92199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4164.563000000002
+---------------------------------
+
+---------------------------------
+Bigloop46
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.6559999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.10899999999674
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4248.75
+---------------------------------
+
+---------------------------------
+Bigloop47
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.7659999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 96.4690000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4376.546999999999
+---------------------------------
+
+---------------------------------
+Bigloop48
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.735000000000582
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 50.984000000004016
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4458.671999999999
+---------------------------------
+
+---------------------------------
+Bigloop49
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.7189999999973224
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.999999999999996
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 92.11000000000058
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4581.938000000002
+---------------------------------
+
+---------------------------------
+Bigloop50
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.7809999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 73.36000000000058
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4686.485000000001
+---------------------------------
+
+---------------------------------
+Bigloop51
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.7809999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 54.76600000000326
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4772.468999999997
+---------------------------------
+
+---------------------------------
+Bigloop52
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.8440000000045984
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 90.56199999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 4894.313000000002
+---------------------------------
+
+---------------------------------
+Bigloop53
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 83.28100000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5008.828000000001
+---------------------------------
+
+---------------------------------
+Bigloop54
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.9069999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRLP CG use time 112.875
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5153.046999999999
+---------------------------------
+
+---------------------------------
+Bigloop55
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.9219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 51.375
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5235.813000000002
+---------------------------------
+
+---------------------------------
+Bigloop56
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.9219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 72.68799999999464
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5339.890999999996
+---------------------------------
+
+---------------------------------
+Bigloop57
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.875
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 58.73399999999674
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5430.015999999996
+---------------------------------
+
+---------------------------------
+Bigloop58
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.9840000000040163
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 69.03199999999924
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5530.5
+---------------------------------
+
+---------------------------------
+Bigloop59
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.9530000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 90.5
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5652.421999999999
+---------------------------------
+
+---------------------------------
+Bigloop60
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.0
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 28.70300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 5712.593999999997
+---------------------------------
+
+---------------------------------
+Bigloop61
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.014999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 79.04699999999866
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 5823.171999999999
+---------------------------------
+
+---------------------------------
+Bigloop62
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.0469999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 84.68800000000192
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 5939.390999999996
+---------------------------------
+
+---------------------------------
+Bigloop63
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.062000000005355
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 23.656000000002678
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 5994.578000000001
+---------------------------------
+
+---------------------------------
+Bigloop64
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.110000000000582
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.5309999999954
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6080.671999999999
+---------------------------------
+
+---------------------------------
+Bigloop65
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.063000000001921
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 97.75
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6209.968999999997
+---------------------------------
+
+---------------------------------
+Bigloop66
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.1560000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 111.84399999999732
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6353.485000000001
+---------------------------------
+
+---------------------------------
+Bigloop67
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.186999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 92.71899999999732
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6477.875
+---------------------------------
+
+---------------------------------
+Bigloop68
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.1719999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 93.46800000000076
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 6603.031999999999
+---------------------------------
+
+---------------------------------
+Bigloop69
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.2180000000007567
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 93.76599999999598
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6728.515999999996
+---------------------------------
+
+---------------------------------
+Bigloop70
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.172000000005937
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 42.81300000000192
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6802.968999999997
+---------------------------------
+
+---------------------------------
+Bigloop71
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.188000000001921
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 75.48500000000058
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 6910.171999999999
+---------------------------------
+
+---------------------------------
+Bigloop72
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 93.15600000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7035.031999999999
+---------------------------------
+
+---------------------------------
+Bigloop73
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.2339999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 114.0
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7180.765999999996
+---------------------------------
+
+---------------------------------
+Bigloop74
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 66.17200000000594
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7278.656999999999
+---------------------------------
+
+---------------------------------
+Bigloop75
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.2960000000020955
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 95.25
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7405.735000000001
+---------------------------------
+
+---------------------------------
+Bigloop76
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.2809999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 55.109000000004016
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7492.610000000001
+---------------------------------
+
+---------------------------------
+Bigloop77
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.311999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 65.67199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7590.140999999996
+---------------------------------
+
+---------------------------------
+Bigloop78
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.3590000000040163
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 102.81300000000192
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7724.860000000001
+---------------------------------
+
+---------------------------------
+Bigloop79
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.389999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.25
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7810.985000000001
+---------------------------------
+
+---------------------------------
+Bigloop80
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.375
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 95.70300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 7938.578000000001
+---------------------------------
+
+---------------------------------
+Bigloop81
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.4069999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 83.45300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8053.985000000001
+---------------------------------
+
+---------------------------------
+Bigloop82
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.4219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 65.0
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8150.906999999999
+---------------------------------
+
+---------------------------------
+Bigloop83
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.4680000000007567
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.46899999999732
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8237.390999999996
+---------------------------------
+
+---------------------------------
+Bigloop84
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.4690000000045984
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 85.78100000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8355.171999999999
+---------------------------------
+
+---------------------------------
+Bigloop85
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.4530000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 106.9690000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8494.140999999996
+---------------------------------
+
+---------------------------------
+Bigloop86
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.5
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.17199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8579.390999999996
+---------------------------------
+
+---------------------------------
+Bigloop87
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.562000000005355
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 21.031000000002678
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8632.532
+---------------------------------
+
+---------------------------------
+Bigloop88
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.514999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 35.51499999999942
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8700.11
+---------------------------------
+
+---------------------------------
+Bigloop89
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.5319999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 79.54699999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8811.782
+---------------------------------
+
+---------------------------------
+Bigloop90
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.561999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 34.92200000000594
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8878.985
+---------------------------------
+
+---------------------------------
+Bigloop91
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.6089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.015999999995984
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 8965.157
+---------------------------------
+
+---------------------------------
+Bigloop92
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.6089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 94.35899999999674
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9091.735
+---------------------------------
+
+---------------------------------
+Bigloop93
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.625
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 76.0940000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9200.0
+---------------------------------
+
+---------------------------------
+Bigloop94
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.6409999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.45300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9286.671999999999
+---------------------------------
+
+---------------------------------
+Bigloop95
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.6719999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 103.86000000000058
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9422.703000000001
+---------------------------------
+
+---------------------------------
+Bigloop96
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7039999999979045
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.45300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9508.407
+---------------------------------
+
+---------------------------------
+Bigloop97
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7339999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 48.4690000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9589.188000000002
+---------------------------------
+
+---------------------------------
+Bigloop98
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7809999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 89.3289999999979
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9710.86
+---------------------------------
+
+---------------------------------
+Bigloop99
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7180000000007567
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 117.04699999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9860.171999999999
+---------------------------------
+
+---------------------------------
+Bigloop100
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 20.843000000000757
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 9913.407
+---------------------------------
+
+---------------------------------
+Bigloop101
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7810000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 124.17199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10069.921999999999
+---------------------------------
+
+---------------------------------
+Bigloop102
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7810000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 99.125
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10201.453000000001
+---------------------------------
+
+---------------------------------
+Bigloop103
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 95.43699999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10329.265999999996
+---------------------------------
+
+---------------------------------
+Bigloop104
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.8280000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 76.90600000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10438.657
+---------------------------------
+
+---------------------------------
+Bigloop105
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.875
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 96.53100000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10567.640999999996
+---------------------------------
+
+---------------------------------
+Bigloop106
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.875
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 55.015999999995984
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10655.125
+---------------------------------
+
+---------------------------------
+Bigloop107
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.860000000000582
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.875
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10742.468999999997
+---------------------------------
+
+---------------------------------
+Bigloop108
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.9060000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 60.484000000004016
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10835.515999999996
+---------------------------------
+
+---------------------------------
+Bigloop109
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.8590000000040163
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 78.63999999999942
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 10946.703000000001
+---------------------------------
+
+---------------------------------
+Bigloop110
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.9539999999979045
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 78.7960000000021
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11058.093999999997
+---------------------------------
+
+---------------------------------
+Bigloop111
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.9530000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 72.5940000000046
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11163.265999999996
+---------------------------------
+
+---------------------------------
+Bigloop112
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.9690000000045984
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRLP CG use time 148.5
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11344.468999999997
+---------------------------------
+
+---------------------------------
+Bigloop113
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.0160000000032596
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 51.04700000000594
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11428.235
+---------------------------------
+
+---------------------------------
+Bigloop114
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.0469999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 75.01600000000326
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11535.890999999996
+---------------------------------
+
+---------------------------------
+Bigloop115
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.047000000005937
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 55.0
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11623.640999999996
+---------------------------------
+
+---------------------------------
+Bigloop116
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.0780000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 50.92199999999866
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11707.36
+---------------------------------
+
+---------------------------------
+Bigloop117
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.0469999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 76.01499999999942
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11816.11
+---------------------------------
+
+---------------------------------
+Bigloop118
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.1089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 21.093999999997322
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11869.921999999999
+---------------------------------
+
+---------------------------------
+Bigloop119
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.0780000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.06199999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 11955.75
+---------------------------------
+
+---------------------------------
+Bigloop120
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.125
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 103.28100000000268
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12091.86
+---------------------------------
+
+---------------------------------
+Bigloop121
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.1559999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 22.264999999999418
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12146.938000000002
+---------------------------------
+
+---------------------------------
+Bigloop122
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.1089999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 87.90699999999924
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12267.671999999999
+---------------------------------
+
+---------------------------------
+Bigloop123
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.1719999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 58.375
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12358.953000000001
+---------------------------------
+
+---------------------------------
+Bigloop124
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.1719999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.06199999999808
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12445.953000000001
+---------------------------------
+
+---------------------------------
+Bigloop125
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 82.95299999999406
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12561.782
+---------------------------------
+
+---------------------------------
+Bigloop126
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.3280000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 67.48500000000058
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12662.313000000002
+---------------------------------
+
+---------------------------------
+Bigloop127
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.327999999994063
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 97.45300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12792.86
+---------------------------------
+
+---------------------------------
+Bigloop128
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.2339999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 21.125
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12846.921999999999
+---------------------------------
+
+---------------------------------
+Bigloop129
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.2969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.70300000000134
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 12934.796999999999
+---------------------------------
+
+---------------------------------
+Bigloop130
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.4219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 53.875
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 13021.875
+---------------------------------
+
+---------------------------------
+Bigloop131
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.4219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 56.26600000000326
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 13111.282
+---------------------------------
+
+---------------------------------
+Bigloop132
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.4530000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 18.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 139.81200000000536
+ 
+SARq = 15.5, GRobj = 19.0
+LB = 15.5, UB= 18.0
+
+Having used time 13284.313000000002
+---------------------------------
+
+---------------------------------
+Bigloop133
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.436999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 52.26499999999942
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13369.593999999997
+---------------------------------
+
+---------------------------------
+Bigloop134
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.375
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.3
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.3
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.3
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 56.98399999999674
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13459.813000000002
+---------------------------------
+
+---------------------------------
+Bigloop135
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.514999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.3
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.3
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.299999999999997
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 57.76600000000326
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13550.938000000002
+---------------------------------
+
+---------------------------------
+Bigloop136
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.514999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 30.39100000000326
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13614.688000000002
+---------------------------------
+
+---------------------------------
+Bigloop137
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.4689999999973224
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 84.06299999999464
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13731.875
+---------------------------------
+
+---------------------------------
+Bigloop138
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.5159999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 76.3440000000046
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13841.625
+---------------------------------
+
+---------------------------------
+Bigloop139
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.5159999999959837
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 37.859000000004016
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 13912.921999999999
+---------------------------------
+
+---------------------------------
+Bigloop140
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.610000000000582
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 90.48399999999674
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14036.86
+---------------------------------
+
+---------------------------------
+Bigloop141
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.5930000000007567
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 52.35899999999674
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14122.718999999997
+---------------------------------
+
+---------------------------------
+Bigloop142
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.6560000000026776
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 116.90600000000268
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14273.11
+---------------------------------
+
+---------------------------------
+Bigloop143
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.686999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 83.93699999999808
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14390.703000000001
+---------------------------------
+
+---------------------------------
+Bigloop144
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.6569999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.250000000000004
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRLP CG use time 121.92199999999866
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14546.125
+---------------------------------
+
+---------------------------------
+Bigloop145
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.6569999999992433
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 73.90699999999924
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14653.578000000001
+---------------------------------
+
+---------------------------------
+Bigloop146
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.75
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 64.125
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14751.36
+---------------------------------
+
+---------------------------------
+Bigloop147
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.686999999998079
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 98.5
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14883.453000000001
+---------------------------------
+
+---------------------------------
+Bigloop148
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 58.79699999999866
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 14976.11
+---------------------------------
+
+---------------------------------
+Bigloop149
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 51.42199999999866
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15061.328000000001
+---------------------------------
+
+---------------------------------
+Bigloop150
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.7189999999973224
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 77.28100000000268
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15172.032
+---------------------------------
+
+---------------------------------
+Bigloop151
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.7030000000013388
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 88.40600000000268
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15294.140999999996
+---------------------------------
+
+---------------------------------
+Bigloop152
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.8590000000040163
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 116.15699999999924
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15444.063000000002
+---------------------------------
+
+---------------------------------
+Bigloop153
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.75
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRLP CG use time 136.375
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15614.203000000001
+---------------------------------
+
+---------------------------------
+Bigloop154
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.7969999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.01499999999942
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15701.813000000002
+---------------------------------
+
+---------------------------------
+Bigloop155
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.8439999999973224
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 56.90699999999924
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15792.563000000002
+---------------------------------
+
+---------------------------------
+Bigloop156
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.9059999999954016
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 54.20300000000134
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 15880.468999999997
+---------------------------------
+
+---------------------------------
+Bigloop157
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.938000000001921
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 136.7809999999954
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16051.188000000002
+---------------------------------
+
+---------------------------------
+Bigloop158
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.9839999999967404
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 120.90699999999924
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16206.063000000002
+---------------------------------
+
+---------------------------------
+Bigloop159
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.875
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRLP CG use time 148.64100000000326
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16388.297
+---------------------------------
+
+---------------------------------
+Bigloop160
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 3.9219999999986612
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRLP CG use time 143.375
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16565.61
+---------------------------------
+
+---------------------------------
+Bigloop161
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.139999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 95.68799999999464
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16695.438000000002
+---------------------------------
+
+---------------------------------
+Bigloop162
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.046999999998661
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 51.76499999999942
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16781.235
+---------------------------------
+
+---------------------------------
+Bigloop163
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.046999999998661
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 83.4059999999954
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16898.797
+---------------------------------
+
+---------------------------------
+Bigloop164
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.14100000000326
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 37.60899999999674
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 16970.625
+---------------------------------
+
+---------------------------------
+Bigloop165
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 139.48399999999674
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 17144.563000000002
+---------------------------------
+
+---------------------------------
+Bigloop166
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.139999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRLP CG use time 87.70300000000134
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 17266.485
+---------------------------------
+
+---------------------------------
+Bigloop167
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.139999999999418
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop2
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 10/14
+
+GRloop3
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 17.25
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRLP CG use time 102.96899999999732
+ 
+SARq = 15.5, GRobj = 18.0
+LB = 15.5, UB= 18.0
+
+Having used time 17403.265999999996
+---------------------------------
+
+---------------------------------
+Bigloop168
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 4.25
+
+IpStatus = Optimal
+SARIpObj = 435.5
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 17.25
+14 gates need pricing: 0 1 2 

@@ -1,0 +1,5442 @@
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=57488:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG_5min.InitialPattern -Xms1024m -Xmx2048m -XX:MaxPermSize=512m
+AirpID:0,GateType:0,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:0,GateType:0,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:0,GateType:0,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:0,GateType:0,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:1,GateType:0,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:1,GateType:0,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:1,GateType:0,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:1,GateType:0,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:2,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:2,GateType:1,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:2,GateType:1,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:2,GateType:1,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:6,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:7,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:3,GateType:0,LegNum:8,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:6,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:4,GateType:1,LegNum:7,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:6,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:7,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:8,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:9,forcedCoveredCF:-1,find 592 pattern(s)
+
+AirpID:5,GateType:0,LegNum:10,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:0,LegNum:11,forcedCoveredCF:-1,find 44 pattern(s)
+
+AirpID:5,GateType:0,LegNum:12,forcedCoveredCF:-1,find 117 pattern(s)
+
+AirpID:5,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:6,forcedCoveredCF:-1,find 571 pattern(s)
+
+AirpID:5,GateType:1,LegNum:7,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:8,forcedCoveredCF:-1,find 954 pattern(s)
+
+AirpID:5,GateType:1,LegNum:9,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:5,GateType:1,LegNum:10,forcedCoveredCF:-1,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:11,forcedCoveredCF:-1,find 0 pattern(s)
+
+AirpID:5,GateType:1,LegNum:12,forcedCoveredCF:-1,find 0 pattern(s)
+
+AirpID:6,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:0,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:0,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:0,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:0,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:0,LegNum:6,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:1,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:7,GateType:1,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:2,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:3,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:4,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:5,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:6,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:7,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:8,forcedCoveredCF:-1,find 1000 pattern(s)
+
+AirpID:8,GateType:1,LegNum:9,forcedCoveredCF:-1,find 678 pattern(s)
+
+AirpID:8,GateType:1,LegNum:10,forcedCoveredCF:-1,find 869 pattern(s)
+
+AirpID:8,GateType:1,LegNum:11,forcedCoveredCF:-1,find 758 pattern(s)
+
+AirpID:8,GateType:1,LegNum:12,forcedCoveredCF:-1,find 1000 pattern(s)
+
+CopyFlightPatternCoverNum0: 
+1200 DA-1
+1276 DA-1
+1277 DA-1
+1278 DA-1
+1279 DA-1
+1280 DA-1
+1281 DA-1
+1282 DA-1
+1283 DA-1
+1284 DA-1
+1285 DA-1
+1286 DA-1
+1287 DA-1
+1288 DA-1
+1289 DA-1
+1290 DA-1
+1291 DA-1
+1292 DA-1
+1293 DA-1
+1294 DA-1
+1295 DA-1
+1296 DA-1
+1297 DA-1
+1298 DA-1
+1299 DA-1
+1300 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:0,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:0,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:2,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:2,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:3,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:3,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:4,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:4,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:5,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:5,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:6,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:6,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:7,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:7,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:8,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:8,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:9,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:9,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:10,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:10,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:11,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:11,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:12,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:12,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:13,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:13,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:14,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:14,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:15,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:15,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:16,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:16,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:17,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:17,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:18,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:18,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:19,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:19,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:20,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:20,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:21,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:21,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:22,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:22,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:23,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:23,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:24,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:24,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:25,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:25,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:26,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:26,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:27,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:27,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:28,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:28,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:29,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:29,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:30,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:30,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:31,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:31,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:32,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:32,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:33,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:33,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:34,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:34,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:35,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:35,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:36,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:36,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:37,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:37,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:38,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:38,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:39,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:39,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:40,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:40,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:41,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:41,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:42,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:42,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:43,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:43,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:44,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:44,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:45,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:45,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:46,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:46,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:47,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:47,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:48,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:48,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:49,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:49,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:50,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:50,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:51,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:51,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:52,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:52,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:53,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:53,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:54,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:54,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:55,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:55,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:56,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:56,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:57,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:57,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:58,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:58,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:59,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:59,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:60,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:60,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:61,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:61,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:62,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:62,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:63,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:63,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:64,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:64,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:65,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:65,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:66,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:66,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:67,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:67,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:68,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:68,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:69,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:69,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:70,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:70,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:71,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:71,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:72,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:72,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:73,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:73,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:74,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:74,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:75,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:75,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:76,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:76,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:77,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:77,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:78,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:78,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:79,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:79,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:80,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:80,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:81,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:81,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:82,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:82,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:83,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:83,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:84,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:84,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:85,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:85,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:86,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:86,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:87,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:87,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:88,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:88,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:89,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:89,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:90,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:90,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:91,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:91,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:92,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:92,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:93,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:93,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:94,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:94,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:95,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:95,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:96,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:96,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:97,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:97,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:98,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:98,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:99,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:99,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:100,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:100,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:101,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:101,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:102,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:102,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:103,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:103,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:104,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:104,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:105,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:105,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:106,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:106,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:107,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:107,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:108,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:108,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:109,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:109,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:110,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:110,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:111,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:111,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:112,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:112,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:113,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:113,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:114,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:114,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:115,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:115,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:116,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:116,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:117,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:117,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:118,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:118,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:119,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:119,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:120,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:120,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:121,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:121,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:122,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:122,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:123,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:123,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:124,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:124,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:125,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:125,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:126,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:126,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:127,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:127,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:128,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:128,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:129,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:129,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:130,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:130,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:131,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:131,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:132,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:132,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:133,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:133,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:134,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:134,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:135,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:135,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:136,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:136,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:137,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:137,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:138,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:138,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:139,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:139,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:140,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:140,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:141,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:141,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:142,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:142,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:143,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:143,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:144,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:144,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:145,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:145,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:146,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:146,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:147,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:147,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:148,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:148,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:149,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:149,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:150,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:150,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:151,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:151,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:152,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:152,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:153,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:153,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:154,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:154,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:155,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:155,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:156,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:156,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:157,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:157,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:158,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:158,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:159,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:159,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:160,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:160,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:161,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:161,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:162,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:162,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:163,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:163,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:164,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:164,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:165,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:165,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:166,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:166,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:167,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:167,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:168,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:168,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:169,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:169,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:170,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:170,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:171,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:171,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:172,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:172,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:173,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:173,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:174,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:174,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:175,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:175,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:176,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:176,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:177,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:177,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:178,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:178,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:179,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:179,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:180,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:180,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:181,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:181,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:182,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:182,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:183,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:183,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:184,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:184,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:185,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:185,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:186,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:186,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:187,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:187,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:188,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:188,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:189,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:189,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:190,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:190,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:191,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:191,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:192,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:192,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:193,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:193,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:194,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:194,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:195,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:195,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:196,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:196,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:197,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:197,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:198,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:198,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:199,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:199,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:200,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:200,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:201,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:201,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:202,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:202,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:203,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:203,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:204,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:204,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:205,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:205,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:206,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:206,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:207,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:207,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:208,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:208,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:209,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:209,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:210,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:210,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:211,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:211,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:212,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:212,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:213,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:213,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:214,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:214,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:215,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:215,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:216,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:216,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:217,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:217,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:218,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:218,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:219,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:219,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:220,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:220,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:221,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:221,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:222,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:222,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:223,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:223,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:224,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:224,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:225,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:225,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:226,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:226,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:227,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:227,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:228,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:228,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:229,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:229,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:230,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:230,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:231,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:231,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:232,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:232,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:233,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:233,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:234,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:234,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:235,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:235,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:236,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:236,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:237,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:237,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:238,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:238,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:239,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:239,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:240,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:240,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:241,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:241,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:242,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:242,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:243,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:243,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:244,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:244,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:245,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:245,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:246,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:246,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:247,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:247,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:248,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:248,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:249,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:249,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:250,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:250,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:251,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:251,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:252,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:252,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:253,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:253,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:254,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:254,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:255,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:255,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:256,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:256,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:257,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:257,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:258,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:258,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:259,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:259,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:260,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:260,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:261,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:261,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:262,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:262,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:263,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:263,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:264,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:264,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:265,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:265,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:266,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:266,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:267,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:267,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:268,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:268,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:269,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:269,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:270,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:270,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:271,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:271,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:272,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:272,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:273,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:273,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:274,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:274,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:275,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:275,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:276,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:276,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:277,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:277,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:278,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:278,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:279,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:279,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:280,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:280,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:281,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:281,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:282,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:282,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:283,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:283,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:284,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:284,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:285,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:285,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:286,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:286,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:287,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:287,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:288,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:288,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:289,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:289,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:290,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:290,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:291,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:291,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:292,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:292,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:293,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:293,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:294,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:294,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:295,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:295,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:296,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:296,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:297,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:297,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:298,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:298,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:299,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:299,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:300,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:300,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:301,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:301,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:302,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:302,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:303,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:303,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:304,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:304,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:305,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:305,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:306,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:306,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:307,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:307,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:308,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:308,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:309,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:309,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:310,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:310,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:311,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:311,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:312,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:312,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:313,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:313,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:314,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:314,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:315,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:315,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:316,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:316,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:317,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:317,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:318,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:318,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:319,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:319,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:320,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:320,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:321,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:321,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:322,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:322,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:323,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:323,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:324,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:324,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:325,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:325,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:326,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:326,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:327,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:327,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:328,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:328,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:329,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:329,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:330,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:330,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:331,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:331,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:332,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:332,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:333,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:333,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:334,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:334,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:335,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:335,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:336,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:336,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:337,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:337,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:338,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:338,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:339,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:339,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:340,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:340,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:341,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:341,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:342,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:342,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:343,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:343,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:344,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:344,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:345,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:345,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:346,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:346,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:347,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:347,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:348,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:348,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:349,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:349,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:350,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:350,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:351,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:351,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:352,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:352,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:353,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:353,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:354,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:354,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:355,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:355,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:356,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:356,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:357,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:357,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:358,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:358,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:359,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:359,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:360,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:360,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:361,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:361,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:362,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:362,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:363,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:363,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:364,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:364,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:365,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:365,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:366,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:366,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:367,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:367,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:368,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:368,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:369,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:369,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:370,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:370,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:371,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:371,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:372,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:372,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:373,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:373,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:374,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:374,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:375,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:375,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:376,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:376,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:377,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:377,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:378,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:378,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:379,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:379,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:380,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:380,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:381,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:381,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:382,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:382,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:383,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:383,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:384,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:384,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:385,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:385,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:386,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:386,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:387,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:387,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:388,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:388,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:389,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:389,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:390,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:390,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:391,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:391,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:392,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:392,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:393,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:393,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:394,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:394,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:395,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:395,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:396,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:396,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:397,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:397,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:398,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:398,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:399,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:399,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:400,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:400,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:401,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:401,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:402,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:402,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:403,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:403,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:404,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:404,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:405,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:405,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:406,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:406,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:407,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:407,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:408,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:408,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:409,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:409,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:410,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:410,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:411,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:411,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:412,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:412,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:413,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:413,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:414,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:414,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:415,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:415,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:416,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:416,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:417,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:417,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:418,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:418,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:419,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:419,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:420,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:420,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:421,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:421,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:422,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:422,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:423,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:423,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:424,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:424,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:425,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:425,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:426,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:426,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:427,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:427,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:428,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:428,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:429,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:429,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:430,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:430,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:431,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:431,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:432,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:432,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:433,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:433,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:434,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:434,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:435,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:435,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:436,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:436,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:437,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:437,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:438,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:438,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:439,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:439,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:440,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:440,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:441,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:441,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:442,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:442,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:443,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:443,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:444,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:444,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:445,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:445,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:446,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:446,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:447,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:447,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:448,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:448,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:449,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:449,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:450,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:450,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:451,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:451,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:452,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:452,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:453,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:453,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:454,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:454,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:455,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:455,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:456,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:456,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:457,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:457,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:458,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:458,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:459,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:459,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:460,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:460,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:461,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:461,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:462,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:462,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:463,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:463,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:464,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:464,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:465,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:465,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:466,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:466,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:467,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:467,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:468,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:468,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:469,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:469,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:470,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:470,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:471,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:471,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:472,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:472,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:473,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:473,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:474,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:474,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:475,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:475,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:476,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:476,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:477,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:477,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:478,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:478,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:479,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:479,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:480,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:480,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:481,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:481,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:482,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:482,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:483,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:483,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:484,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:484,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:485,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:485,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:486,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:486,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:487,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:487,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:488,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:488,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:489,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:489,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:490,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:490,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:491,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:491,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:492,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:492,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:493,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:493,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:494,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:494,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:495,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:495,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:496,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:496,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:497,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:497,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:498,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:498,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:499,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:499,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:500,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:500,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:501,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:501,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:502,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:502,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:503,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:503,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:504,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:504,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:505,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:505,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:506,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:506,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:507,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:507,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:508,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:508,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:509,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:509,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:510,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:510,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:511,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:511,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:512,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:512,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:513,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:513,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:514,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:514,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:515,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:515,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:516,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:516,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:517,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:517,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:518,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:518,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:519,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:519,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:520,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:520,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:521,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:521,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:522,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:522,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:523,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:523,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:524,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:524,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:525,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:525,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:526,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:526,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:527,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:527,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:528,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:528,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:529,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:529,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:530,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:530,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:531,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:531,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:532,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:532,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:533,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:533,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:534,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:534,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:535,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:535,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:536,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:536,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:537,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:537,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:538,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:538,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:539,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:539,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:540,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:540,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:541,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:541,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:542,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:542,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:543,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:543,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:544,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:544,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:545,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:545,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:546,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:546,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:547,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:547,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:548,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:548,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:549,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:549,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:550,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:550,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:551,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:551,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:552,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:552,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:553,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:553,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:554,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:554,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:555,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:555,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:556,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:556,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:557,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:557,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:558,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:558,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:559,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:559,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:560,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:560,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:561,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:561,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:562,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:562,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:563,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:563,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:564,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:564,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:565,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:565,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:566,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:566,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:567,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:567,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:568,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:568,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:569,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:569,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:570,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:570,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:571,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:571,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:572,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:572,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:573,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:573,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:574,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:574,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:575,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:575,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:576,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:576,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:577,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:577,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:578,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:578,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:579,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:579,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:580,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:580,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:581,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:581,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:582,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:582,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:583,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:583,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:584,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:584,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:585,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:585,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:586,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:586,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:587,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:587,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:588,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:588,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:589,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:589,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:590,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:590,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:591,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:591,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:592,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:592,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:593,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:593,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:594,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:594,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:595,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:595,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:596,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:596,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:597,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:597,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:598,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:598,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:599,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:599,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:600,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:600,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:601,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:601,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:602,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:602,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:603,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:603,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:604,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:604,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:605,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:605,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:606,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:606,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:607,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:607,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:608,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:608,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:609,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:609,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:610,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:610,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:611,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:611,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:612,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:612,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:613,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:613,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:614,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:614,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:615,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:615,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:616,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:616,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:617,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:617,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:618,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:618,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:619,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:619,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:620,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:620,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:621,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:621,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:622,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:622,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:623,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:623,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:624,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:624,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:625,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:625,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:626,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:626,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:627,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:627,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:628,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:628,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:629,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:629,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:630,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:630,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:631,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:631,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:632,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:632,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:633,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:633,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:634,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:634,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:635,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:635,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:636,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:636,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:637,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:637,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:638,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:638,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:639,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:639,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:640,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:640,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:641,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:641,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:642,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:642,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:643,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:643,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:644,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:644,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:645,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:645,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:646,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:646,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:647,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:647,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:648,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:648,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:649,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:649,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:650,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:650,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:651,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:651,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:652,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:652,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:653,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:653,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:654,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:654,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:655,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:655,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:656,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:656,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:657,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:657,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:658,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:658,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:659,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:659,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:660,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:660,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:661,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:661,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:662,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:662,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:663,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:663,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:664,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:664,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:665,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:665,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:666,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:666,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:667,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:667,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:668,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:668,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:669,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:669,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:670,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:670,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:671,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:671,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:672,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:672,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:673,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:673,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:674,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:674,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:675,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:675,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:676,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:676,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:677,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:677,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:678,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:678,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:679,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:679,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:680,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:680,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:681,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:681,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:682,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:682,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:683,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:683,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:684,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:684,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:685,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:685,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:686,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:686,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:687,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:687,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:688,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:688,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:689,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:689,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:690,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:690,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:691,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:691,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:692,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:692,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:693,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:693,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:694,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:694,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:695,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:695,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:696,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:696,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:697,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:697,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:698,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:698,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:699,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:699,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:700,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:700,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:701,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:701,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:702,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:702,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:703,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:703,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:704,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:704,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:705,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:705,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:706,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:706,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:707,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:707,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:708,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:708,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:709,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:709,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:710,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:710,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:711,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:711,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:712,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:712,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:713,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:713,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:714,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:714,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:715,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:715,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:716,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:716,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:717,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:717,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:718,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:718,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:719,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:719,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:720,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:720,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:721,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:721,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:722,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:722,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:723,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:723,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:724,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:724,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:725,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:725,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:726,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:726,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:727,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:727,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:728,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:728,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:729,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:729,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:730,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:730,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:731,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:731,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:732,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:732,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:733,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:733,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:734,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:734,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:735,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:735,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:736,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:736,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:737,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:737,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:738,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:738,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:739,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:739,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:740,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:740,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:741,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:741,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:742,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:742,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:743,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:743,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:744,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:744,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:745,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:745,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:746,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:746,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:747,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:747,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:748,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:748,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:749,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:749,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:750,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:750,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:751,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:751,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:752,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:752,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:753,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:753,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:754,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:754,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:755,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:755,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:756,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:756,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:757,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:757,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:758,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:758,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:759,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:759,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:760,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:760,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:761,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:761,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:762,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:762,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:763,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:763,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:764,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:764,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:765,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:765,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:766,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:766,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:767,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:767,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:768,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:768,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:769,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:769,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:770,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:770,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:771,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:771,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:772,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:772,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:773,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:773,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:774,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:774,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:775,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:775,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:776,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:776,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:777,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:777,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:778,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:778,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:779,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:779,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:780,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:780,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:781,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:781,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:782,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:782,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:783,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:783,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:784,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:784,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:785,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:785,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:786,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:786,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:787,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:787,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:788,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:788,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:789,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:789,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:790,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:790,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:791,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:791,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:792,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:792,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:793,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:793,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:794,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:794,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:795,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:795,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:796,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:796,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:797,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:797,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:798,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:798,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:799,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:799,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:800,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:800,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:801,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:801,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:802,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:802,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:803,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:803,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:804,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:804,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:805,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:805,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:806,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:806,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:807,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:807,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:808,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:808,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:809,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:809,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:810,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:810,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:811,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:811,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:812,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:812,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:813,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:813,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:814,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:814,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:815,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:815,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:816,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:816,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:817,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:817,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:818,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:818,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:819,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:819,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:820,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:820,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:821,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:821,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:822,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:822,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:823,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:823,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:824,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:824,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:825,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:825,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:826,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:826,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:827,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:827,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:828,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:828,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:829,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:829,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:830,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:830,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:831,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:831,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:832,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:832,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:833,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:833,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:834,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:834,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:835,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:835,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:836,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:836,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:837,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:837,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:838,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:838,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:839,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:839,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:840,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:840,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:841,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:841,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:842,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:842,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:843,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:843,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:844,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:844,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:845,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:845,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:846,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:846,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:847,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:847,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:848,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:848,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:849,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:849,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:850,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:850,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:851,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:851,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:852,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:852,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:853,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:853,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:854,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:854,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:855,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:855,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:856,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:856,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:857,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:857,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:858,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:858,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:859,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:859,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:860,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:860,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:861,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:861,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:862,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:862,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:863,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:863,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:864,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:864,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:865,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:865,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:866,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:866,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:867,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:867,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:868,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:868,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:869,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:869,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:870,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:870,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:871,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:871,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:872,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:872,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:873,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:873,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:874,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:874,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:875,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:875,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:876,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:876,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:877,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:877,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:878,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:878,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:879,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:879,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:880,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:880,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:881,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:881,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:882,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:882,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:883,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:883,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:884,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:884,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:885,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:885,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:886,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:886,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:887,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:887,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:888,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:888,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:889,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:889,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:890,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:890,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:891,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:891,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:892,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:892,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:893,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:893,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:894,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:894,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:895,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:895,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:896,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:896,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:897,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:897,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:898,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:898,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:899,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:899,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:900,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:900,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:901,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:901,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:902,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:902,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:903,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:903,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:904,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:904,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:905,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:905,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:906,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:906,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:907,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:907,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:908,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:908,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:909,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:909,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:910,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:910,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:911,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:911,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:912,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:912,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:913,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:913,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:914,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:914,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:915,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:915,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:916,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:916,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:917,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:917,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:918,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:918,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:919,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:919,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:920,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:920,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:921,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:921,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:922,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:922,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:923,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:923,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:924,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:924,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:925,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:925,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:926,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:926,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:927,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:927,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:928,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:928,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:929,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:929,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:930,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:930,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:931,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:931,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:932,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:932,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:933,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:933,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:934,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:934,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:935,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:935,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:936,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:936,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:937,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:937,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:938,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:938,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:939,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:939,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:940,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:940,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:941,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:941,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:942,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:942,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:943,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:943,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:944,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:944,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:945,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:945,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:946,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:946,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:947,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:947,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:948,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:948,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:949,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:949,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:950,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:950,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:951,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:951,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:952,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:952,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:953,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:953,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:954,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:954,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:955,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:955,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:956,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:956,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:957,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:957,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:958,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:958,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:959,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:959,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:960,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:960,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:961,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:961,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:962,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:962,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:963,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:963,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:964,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:964,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:965,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:965,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:966,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:966,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:967,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:967,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:968,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:968,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:969,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:969,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:970,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:970,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:971,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:971,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:972,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:972,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:973,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:973,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:974,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:974,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:975,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:975,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:976,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:976,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:977,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:977,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:978,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:978,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:979,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:979,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:980,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:980,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:981,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:981,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:982,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:982,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:983,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:983,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:984,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:984,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:985,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:985,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:986,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:986,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:987,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:987,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:988,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:988,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:989,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:989,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:990,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:990,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:991,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:991,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:992,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:992,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:993,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:993,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:994,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:994,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:995,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:995,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:996,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:996,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:997,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:997,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:998,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:998,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:999,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:999,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1000,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1000,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1001,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1001,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1002,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1002,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1003,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1003,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1004,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1004,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1005,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1005,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1006,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1006,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1007,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1007,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1008,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1008,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1009,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1009,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1010,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1010,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1011,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1011,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1012,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1012,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1013,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1013,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1014,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1014,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1015,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1015,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1016,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1016,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1017,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1017,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1018,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1018,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1019,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1019,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1020,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1020,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1021,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1021,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1022,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1022,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1023,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1023,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1024,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1024,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1025,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1025,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1026,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1026,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1027,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1027,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1028,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1028,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1029,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1029,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1030,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1030,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1031,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1031,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1032,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1032,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1033,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1033,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1034,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1034,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1035,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1035,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1036,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1036,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1037,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1037,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1038,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1038,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1039,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1039,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1040,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1040,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1041,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1041,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1042,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1042,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1043,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1043,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1044,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1044,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1045,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1045,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1046,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1046,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1047,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1047,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1048,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1048,find 1 pattern(s)
+
+AirpID:6,GateType:1,LegNum:1,forcedCoveredCF:1049,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1049,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1050,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1050,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1051,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1051,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1052,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1052,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1053,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1053,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1054,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1054,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1055,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1055,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1056,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1056,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1057,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1057,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1058,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1058,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1059,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1059,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1060,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1060,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1061,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1061,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1062,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1062,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1063,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1063,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1064,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1064,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1065,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1065,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1066,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1066,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1067,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1067,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1068,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1068,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1069,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1069,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1070,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1070,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1071,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1071,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1072,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1072,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1073,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1073,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1074,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1074,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1075,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1075,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1076,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1076,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1077,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1077,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1078,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1078,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1079,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1079,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1080,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1080,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1081,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1081,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1082,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1082,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1083,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1083,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1084,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1084,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1085,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1085,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1086,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1086,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1087,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1087,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1088,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1088,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1089,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1089,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1090,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1090,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1091,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1091,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1092,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1092,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1093,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1093,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1094,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1094,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1095,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1095,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1096,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1096,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1097,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1097,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1098,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1098,find 1 pattern(s)
+
+AirpID:7,GateType:0,LegNum:1,forcedCoveredCF:1099,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1099,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1100,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1100,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1101,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1101,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1102,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1102,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1103,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1103,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1104,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1104,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1105,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1105,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1106,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1106,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1107,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1107,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1108,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1108,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1109,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1109,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1110,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1110,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1111,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1111,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1112,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1112,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1113,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1113,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1114,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1114,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1115,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1115,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1116,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1116,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1117,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1117,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1118,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1118,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1119,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1119,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1120,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1120,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1121,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1121,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1122,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1122,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1123,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1123,find 1 pattern(s)
+
+AirpID:4,GateType:1,LegNum:1,forcedCoveredCF:1124,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1124,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1125,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1125,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1126,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1126,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1127,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1127,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1128,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1128,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1129,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1129,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1130,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1130,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1131,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1131,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1132,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1132,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1133,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1133,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1134,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1134,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1135,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1135,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1136,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1136,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1137,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1137,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1138,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1138,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1139,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1139,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1140,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1140,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1141,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1141,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1142,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1142,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1143,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1143,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1144,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1144,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1145,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1145,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1146,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1146,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1147,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1147,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1148,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1148,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1149,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1149,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1150,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1150,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1151,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1151,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1152,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1152,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1153,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1153,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1154,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1154,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1155,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1155,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1156,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1156,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1157,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1157,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1158,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1158,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1159,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1159,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1160,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1160,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1161,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1161,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1162,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1162,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1163,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1163,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1164,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1164,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1165,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1165,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1166,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1166,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1167,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1167,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1168,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1168,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1169,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1169,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1170,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1170,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1171,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1171,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1172,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1172,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1173,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1173,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1174,find 1 pattern(s)
+
+AirpID:8,GateType:1,LegNum:1,forcedCoveredCF:1174,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1175,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1175,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1176,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1176,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1177,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1177,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1178,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1178,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1179,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1179,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1180,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1180,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1181,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1181,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1182,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1182,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1183,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1183,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1184,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1184,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1185,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1185,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1186,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1186,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1187,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1187,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1188,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1188,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1189,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1189,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1190,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1190,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1191,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1191,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1192,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1192,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1193,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1193,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1194,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1194,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1195,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1195,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1196,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1196,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1197,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1197,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1198,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1198,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1199,find 1 pattern(s)
+
+AirpID:1,GateType:0,LegNum:1,forcedCoveredCF:1199,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1200,find 1 pattern(s)
+
+1200 DA-1
+AirpID:5,GateType:0,LegNum:2,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:3,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:4,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:5,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:6,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:7,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:8,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:9,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:10,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:11,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:12,forcedCoveredCF:1200,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1201,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1201,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1202,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1202,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1203,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1203,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1204,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1204,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1205,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1205,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1206,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1206,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1207,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1207,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1208,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1208,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1209,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1209,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1210,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1210,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1211,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1211,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1212,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1212,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1213,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1213,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1214,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1214,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1215,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1215,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1216,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1216,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1217,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1217,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1218,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1218,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1219,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1219,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1220,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1220,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1221,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1221,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1222,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1222,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1223,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1223,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1224,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1224,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1225,find 1 pattern(s)
+
+AirpID:7,GateType:1,LegNum:1,forcedCoveredCF:1225,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1226,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1226,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1227,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1227,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1228,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1228,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1229,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1229,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1230,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1230,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1231,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1231,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1232,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1232,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1233,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1233,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1234,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1234,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1235,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1235,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1236,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1236,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1237,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1237,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1238,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1238,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1239,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1239,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1240,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1240,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1241,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1241,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1242,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1242,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1243,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1243,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1244,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1244,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1245,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1245,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1246,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1246,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1247,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1247,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1248,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1248,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1249,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1249,find 1 pattern(s)
+
+AirpID:5,GateType:1,LegNum:1,forcedCoveredCF:1250,find 1 pattern(s)
+
+AirpID:2,GateType:1,LegNum:1,forcedCoveredCF:1250,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1251,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1251,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1252,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1252,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1253,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1253,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1254,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1254,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1255,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1255,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1256,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1256,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1257,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1257,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1258,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1258,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1259,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1259,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1260,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1260,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1261,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1261,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1262,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1262,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1263,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1263,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1264,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1264,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1265,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1265,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1266,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1266,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1267,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1267,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1268,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1268,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1269,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1269,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1270,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1270,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1271,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1271,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1272,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1272,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1273,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1273,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1274,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1274,find 1 pattern(s)
+
+AirpID:5,GateType:0,LegNum:1,forcedCoveredCF:1275,find 1 pattern(s)
+
+AirpID:0,GateType:0,LegNum:1,forcedCoveredCF:1275,find 1 pattern(s)
+
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1276,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1276,find 1 pattern(s)
+
+1276 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1277,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1277,find 1 pattern(s)
+
+1277 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1278,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1278,find 1 pattern(s)
+
+1278 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1279,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1279,find 1 pattern(s)
+
+1279 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1280,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1280,find 1 pattern(s)
+
+1280 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1281,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1281,find 1 pattern(s)
+
+1281 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1282,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1282,find 1 pattern(s)
+
+1282 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1283,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1283,find 1 pattern(s)
+
+1283 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1284,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1284,find 1 pattern(s)
+
+1284 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1285,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1285,find 1 pattern(s)
+
+1285 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1286,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1286,find 1 pattern(s)
+
+1286 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1287,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1287,find 1 pattern(s)
+
+1287 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1288,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1288,find 1 pattern(s)
+
+1288 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1289,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1289,find 1 pattern(s)
+
+1289 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1290,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1290,find 1 pattern(s)
+
+1290 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1291,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1291,find 1 pattern(s)
+
+1291 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1292,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1292,find 1 pattern(s)
+
+1292 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1293,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1293,find 1 pattern(s)
+
+1293 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1294,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1294,find 1 pattern(s)
+
+1294 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1295,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1295,find 1 pattern(s)
+
+1295 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1296,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1296,find 1 pattern(s)
+
+1296 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1297,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1297,find 1 pattern(s)
+
+1297 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1298,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1298,find 1 pattern(s)
+
+1298 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1299,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1299,find 1 pattern(s)
+
+1299 DA-1
+AirpID:3,GateType:0,LegNum:1,forcedCoveredCF:1300,find 1 pattern(s)
+
+AirpID:8,GateType:0,LegNum:1,forcedCoveredCF:1300,find 1 pattern(s)
+
+1300 DA-1
+CopyFlightPatternCoverNum0: 
+1276 DA-1
+1277 DA-1
+1278 DA-1
+1279 DA-1
+1280 DA-1
+1281 DA-1
+1282 DA-1
+1283 DA-1
+1284 DA-1
+1285 DA-1
+1286 DA-1
+1287 DA-1
+1288 DA-1
+1289 DA-1
+1290 DA-1
+1291 DA-1
+1292 DA-1
+1293 DA-1
+1294 DA-1
+1295 DA-1
+1296 DA-1
+1297 DA-1
+1298 DA-1
+1299 DA-1
+1300 DA-1
+
+Process finished with exit code 0

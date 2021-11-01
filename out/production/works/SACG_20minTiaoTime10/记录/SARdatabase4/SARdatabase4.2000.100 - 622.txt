@@ -1,0 +1,101 @@
+DataBase = 4, Initial1RouteNum = 2000, NegativeReducedCostRouteNum = 100
+loop1
+AircReducedCost >0 Num = 0/24
+Solve Lp:
+LpObj= 1000.0000000000005
+At AircNum :0, ReducedcostCost:-319.99999999999994
+At AircNum :1, ReducedcostCost:-25.0
+At AircNum :2, ReducedcostCost:-354.9999999999999
+At AircNum :3, ReducedcostCost:-279.9999999999999
+At AircNum :4, ReducedcostCost:-279.9999999999999
+At AircNum :5, ReducedcostCost:-5.0
+At AircNum :6, ReducedcostCost:-527.1428571428569
+At AircNum :7, ReducedcostCost:-310.0
+At AircNum :8, ReducedcostCost:-310.0
+At AircNum :9, ReducedcostCost:-485.71428571428544
+At AircNum :10, ReducedcostCost:-450.71428571428544
+At AircNum :11, ReducedcostCost:-527.8571428571425
+At AircNum :12, ReducedcostCost:-29.999999999999886
+At AircNum :13, ReducedcostCost:-114.99999999999989
+At AircNum :14, ReducedcostCost:-114.99999999999989
+At AircNum :15, ReducedcostCost:0.0
+At AircNum :16, ReducedcostCost:-94.99999999999997
+At AircNum :17, ReducedcostCost:-29.999999999999886
+At AircNum :18, ReducedcostCost:-20.0
+At AircNum :19, ReducedcostCost:0.0
+At AircNum :20, ReducedcostCost:-20.0
+At AircNum :21, ReducedcostCost:-10.0
+At AircNum :22, ReducedcostCost:-20.0
+At AircNum :23, ReducedcostCost:-20.0
+After Column Generation SP
+AircReducedCost >0 Num = 2
+Loop use time 100.31299999999464
+
+loop2
+AircReducedCost >0 Num = 2/24
+Solve Lp:
+LpObj= 300.0
+At AircNum :0, ReducedcostCost:195.0
+At AircNum :1, ReducedcostCost:0.0
+At AircNum :2, ReducedcostCost:-5.0
+At AircNum :3, ReducedcostCost:-5.0
+At AircNum :4, ReducedcostCost:-5.0
+At AircNum :5, ReducedcostCost:0.0
+At AircNum :6, ReducedcostCost:1.0658141036401503E-14
+At AircNum :7, ReducedcostCost:-5.329070518200751E-15
+At AircNum :8, ReducedcostCost:-1.7763568394002505E-15
+At AircNum :9, ReducedcostCost:-5.329070518200751E-15
+At AircNum :10, ReducedcostCost:0.0
+At AircNum :11, ReducedcostCost:0.0
+At AircNum :12, ReducedcostCost:0.0
+At AircNum :13, ReducedcostCost:-5.0
+At AircNum :14, ReducedcostCost:-5.0
+At AircNum :16, ReducedcostCost:0.0
+At AircNum :17, ReducedcostCost:0.0
+At AircNum :18, ReducedcostCost:0.0
+At AircNum :20, ReducedcostCost:0.0
+At AircNum :21, ReducedcostCost:0.0
+At AircNum :22, ReducedcostCost:0.0
+At AircNum :23, ReducedcostCost:0.0
+After Column Generation SP
+AircReducedCost >0 Num = 19
+Loop use time 28.437000000005355
+
+loop3
+AircReducedCost >0 Num = 19/24
+Solve Lp:
+LpObj= 300.0
+At AircNum :2, ReducedcostCost:0.0
+At AircNum :3, ReducedcostCost:-5.0
+At AircNum :4, ReducedcostCost:0.0
+At AircNum :13, ReducedcostCost:0.0
+At AircNum :14, ReducedcostCost:0.0
+After Column Generation SP
+AircReducedCost >0 Num = 23
+Loop use time 8.64100000000326
+
+loop4
+AircReducedCost >0 Num = 23/24
+Solve Lp:
+LpObj= 300.0
+At AircNum :3, ReducedcostCost:-5.0
+After Column Generation SP
+AircReducedCost >0 Num = 23
+Loop use time 5.0
+
+loop5
+AircReducedCost >0 Num = 23/24
+Solve Lp:
+LpObj= 300.0000000000001
+At AircNum :3, ReducedcostCost:0.0
+After Column Generation SP
+AircReducedCost >0 Num = 24
+Loop use time 3.5469999999913853
+
+Total use time 145.93799999999464
+IpStatus = Optimal
+IpObj = 300.0
+CancelNum= 1.0
+DelayTime= 100.0
+SwapNum= 25.0
+[56, 2001, 2000, 2075, 119, 65, 17, 73, 18, 2004, 86, 66, 40, 10, 15, 4, 50, 57, 11, 13, 131, 5, 1370, 42]

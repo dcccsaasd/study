@@ -1,0 +1,113 @@
+1 0 24 29
+2 23.99997 24 57
+3 24.00001 24 60
+L=23.99999
+
+
+
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=52673:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG.SAGR -Xms1024m -Xmx2048m -XX:MaxPermSize=512m
+---------------------------------
+Bigloop1
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.077999999979511
+
+SARIpStatus = Optimal
+SARIpObj = 420.0
+q = 0.0
+SARq>LB, update LB = 0.0
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 23.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 22.65600000001723
+
+GRIpStatus = Optimal
+GRIPobj = 24
+GRIPobj<UB, update UB = 24.0
+ 
+SARq = 0.0, GRobj = 24.0
+LB = 0.0, UB= 24.0
+ 
+Having used time 28.375
+---------------------------------
+
+---------------------------------
+Bigloop2
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 435.5
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.3900000000139698
+
+SARIpStatus = Optimal
+SARIpObj = 443.99996999999996
+q = 23.99997
+SARq>LB, update LB = 23.99997
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 23.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 22.51600000000326
+
+GRIpStatus = Optimal
+GRIPobj = 24
+ 
+SARq = 23.99997, GRobj = 24.0
+LB = 23.99997, UB= 24.0
+ 
+Having used time 56.93699999997625
+---------------------------------
+
+---------------------------------
+Bigloop3
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 436.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 2/4
+
+SALPloop2
+LpStatus = Optimal
+LpObj = 436.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 2.344000000040978
+
+SARIpStatus = Optimal
+SARIpObj = 444.00001
+q = 24.00001
+SARq>LB, update LB = 24.00001
+ 
+
+---------------------------------
+LB = 24.00001, UB= 24.0
+Satisfy stop criterion and break;
+Total use time 59.29700000002049
+
+Process finished with exit code 0

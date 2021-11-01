@@ -1,0 +1,230 @@
+------------
+DataBase = 5
+OneDelayTime = 5
+gateTypeNum = 2
+SAL = 5100.000001
+InitialRouteNum =  1000
+InitialPatternNum = 1000
+Initial3PatternNum = 1000
+forcedCoveredPairInitialPatternTimeLim = 2.0
+OneBestPatternTimeLim = 1.0
+NegativeReducedCostPatternTimeLim = 2.0
+TotalTimeLim = 1800.0
+---------------------------------
+Bigloop1
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 495.8854166666696
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 30/32
+
+SALPloop2
+LpStatus = Optimal
+LpObj = 495.6849315068471
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 32/32
+
+SARLP CG use time 82.07799999997951
+
+SARIpStatus = Optimal
+q = 0.0
+SARIpObj = 500.0
+CancelNum = 2
+DelayTime = 100
+SwapNum = 123
+SARq>LB, update LB = 500.0
+ 
+Airc choose route's index = [1765, 1360, 1105, 1235, 500, 1093, 1018, 1123, 1163, 476, 1122, 998, 373, 1062, 1054, 315, 1116, 752, 1074, 516, 1007, 1147, 192, 236, 1163, 1114, 40, 111, 1326, 1405, 1139, 55]
+Need find 167 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 
+
+GRLPphase1 Column Generation:
+GRphase1loop1
+GRLPphase1 is feasibleï¼?
+GRLPphase1 CG use time 0.6400000000139698
+Having used time 397.0779999999795
+
+GRLP Column Generation:
+GRloop1
+Optimal
+LpObj = 5235.0
+34 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33  
+AirpTypeReducedCost >0 Num = 34/34
+
+GRLP CG use time 195.20300000009593
+
+GRIPobj = 5250.0
+(SARIPobj+GRobj)<UB, update UB = 5750.0
+ 
+LB = 500.0, UB= 5750.0
+ 
+Having used time 592.5
+---------------------------------
+
+---------------------------------
+Bigloop2
+
+SARLP Column Generation:
+SALPloop1
+5250.0
+LpStatus = Optimal
+LpObj = 1836.8477459163782
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 31/32
+
+SALPloop2
+5250.0
+LpStatus = Optimal
+LpObj = 1829.7365180032866
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 32/32
+
+SARLP CG use time 83.57799999997951
+
+5250.0
+SARIpStatus = Optimal
+q = 1335.0
+SARIpObj = 2140.0
+CancelNum = 3
+DelayTime = 205
+SwapNum = 91
+SARq>LB, update LB = 2140.0
+ 
+Airc choose route's index = [1151, 1519, 82, 1254, 252, 77, 1031, 1119, 1000, 1096, 708, 176, 373, 1188, 1041, 1041, 1121, 1038, 689, 1010, 197, 636, 84, 195, 1160, 897, 40, 1432, 1068, 1374, 39, 1033]
+Need find 83 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 
+
+GRLPphase1 Column Generation:
+GRphase1loop1
+GRLPphase1 is feasibleï¼?
+GRLPphase1 CG use time 0.6880000000819564
+Having used time 850.0160000000615
+
+GRLP Column Generation:
+GRloop1
+Optimal
+LpObj = 5325.0
+34 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33  
+AirpTypeReducedCost >0 Num = 34/34
+
+GRLP CG use time 203.60999999998603
+
+GRIPobj = 5340.0
+ 
+LB = 2140.0, UB= 5750.0
+ 
+Having used time 1053.8279999999795
+---------------------------------
+
+---------------------------------
+Bigloop3
+
+SARLP Column Generation:
+SALPloop1
+5250.0
+5340.0
+LpStatus = Optimal
+LpObj = 1831.5729664336325
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 32/32
+
+SARLP CG use time 85.56300000008196
+
+5250.0
+5340.0
+SARIpStatus = Optimal
+q = 1455.0
+SARIpObj = 2140.0
+CancelNum = 2
+DelayTime = 285
+SwapNum = 115
+ 
+Airc choose route's index = [1101, 1550, 1483, 1254, 162, 77, 1031, 1112, 1000, 1096, 518, 998, 13, 959, 961, 1047, 1103, 325, 1101, 101, 1044, 1124, 84, 195, 1176, 1001, 40, 1432, 1056, 1482, 1209, 1125]
+Need find 41 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+
+GRLPphase1 Column Generation:
+GRphase1loop1
+GRLPphase1 is feasibleï¼?
+GRLPphase1 CG use time 0.7189999999245629
+Having used time 1239.8129999999655
+
+GRLP Column Generation:
+GRloop1
+Optimal
+LpObj = 5265.0
+34 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33  
+AirpTypeReducedCost >0 Num = 34/34
+
+GRLP CG use time 210.0470000000205
+
+GRIPobj = 5280.0
+ 
+LB = 2140.0, UB= 5750.0
+ 
+Having used time 1449.9379999999655
+---------------------------------
+
+---------------------------------
+Bigloop4
+
+SARLP Column Generation:
+SALPloop1
+5250.0
+5340.0
+5280.0
+LpStatus = Optimal
+LpObj = 1832.2885180174244
+32 aircraft need pricing : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31  
+AircReducedCost >0 Num = 32/32
+
+SARLP CG use time 99.84400000004098
+
+5250.0
+5340.0
+5280.0
+SARIpStatus = Optimal
+q = 1455.0
+SARIpObj = 2155.0
+CancelNum = 2
+DelayTime = 300
+SwapNum = 115
+SARq>LB, update LB = 2155.0
+ 
+Airc choose route's index = [1650, 1650, 1105, 1040, 814, 1110, 1018, 1046, 1113, 1067, 1067, 998, 373, 1062, 846, 169, 781, 1197, 1049, 464, 1044, 1070, 192, 195, 1220, 897, 1097, 1432, 1068, 1482, 1226, 101]
+Need find 37 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+
+GRLPphase1 Column Generation:
+GRphase1loop1
+GRLPphase1 is feasibleï¼?
+GRLPphase1 CG use time 0.6719999999040738
+Having used time 1645.8129999999655
+
+GRLP Column Generation:
+GRloop1
+Optimal
+LpObj = 5280.0
+34 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33  
+AirpTypeReducedCost >0 Num = 34/34
+
+GRLP CG use time 229.5779999999795
+
+GRIPobj = 5280.0
+ 
+LB = 2155.0, UB= 5750.0
+ 
+Having used time 1875.25
+---------------------------------
+
+
+---------------------------------
+Stop information: 
+SAL = 5100.000001
+Stop at Bigloop: 4
+Total use time 1875.25
+LB = 2155.0, UB= 5750.0
+SARcost = 500.0
+GRgateNum = 175.0
+------------
+
+
+

@@ -1,0 +1,224 @@
+1 0 19 88
+2 18.999996999999997 19 225
+3 19.000001 19 226
+L=118.999999
+
+SAR
+cp.setParameter(IloCP.IntParam.LogVerbosity, IloCP.ParameterValues.Quiet);
+        cp.setParameter(IloCP.IntParam.Workers, 1);//加速
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.MultiPoint);
+        cp.setParameter(IloCP.DoubleParam.TimeLimit,3);
+
+GR
+cp.setParameter(IloCP.IntParam.LogVerbosity, IloCP.ParameterValues.Quiet);
+        cp.setWarning(null);
+        cp.setParameter(IloCP.IntParam.Workers, 1);//加速
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.MultiPoint);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.DepthFirst);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Restart);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Auto);
+        cp.setParameter(IloCP.DoubleParam.TimeLimit,3);
+
+cp.setParameter(IloCP.IntParam.LogVerbosity, IloCP.ParameterValues.Quiet);
+        cp.setParameter(IloCP.IntParam.Workers, 1);//加速
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.MultiPoint);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.DepthFirst);
+//        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Restart);
+        cp.setParameter(IloCP.IntParam.SearchType, IloCP.ParameterValues.Auto);
+        cp.setParameter(IloCP.DoubleParam.TimeLimit,2);
+        cp.startNewSearch();
+
+
+
+
+
+D:\Java\jdk-13.0.2\bin\java.exe -Djava.library.path=D:\cplex12.9\java "-javaagent:D:\IntelliJ IDEA 2020.3.3\lib\idea_rt.jar=59847:D:\IntelliJ IDEA 2020.3.3\bin" -Dfile.encoding=UTF-8 -classpath D:\idea_javaproject\out\production\idea_javaproject;D:\cplex12.9\cplex\lib\cplex.jar;D:\cplex12.9\cpoptimizer\lib\ILOG.CP.jar SACG.SAGR -Xms1024m -Xmx2048m -XX:MaxPermSize=512m
+---------------------------------
+Bigloop1
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 420.0
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.0619999999762513
+
+SARIpStatus = Optimal
+SARIpObj = 420.0
+q = 0.0
+SARq>LB, update LB = 0.0
+ 
+Airc choose route's index = [74, 100, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 21.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop2
+LpObj = 20.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop3
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop4
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop5
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop6
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop7
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 57.34400000004098
+
+GRIpStatus = Optimal
+GRIPobj = 19
+GRIPobj<UB, update UB = 19.0
+ 
+SARq = 0.0, GRobj = 19.0
+LB = 0.0, UB= 19.0
+ 
+Having used time 87.85899999999674
+---------------------------------
+
+---------------------------------
+Bigloop2
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 433.4285714285714
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.4689999999827705
+
+SARIpStatus = Optimal
+SARIpObj = 438.999997
+q = 18.999996999999997
+SARq>LB, update LB = 18.999996999999997
+ 
+Airc choose route's index = [100, 66, 26, 41]
+Need find 19 pairs: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+
+GRLP Column Generation:
+GRloop1
+LpObj = 20.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 11/14
+
+GRloop2
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop3
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop4
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 12/14
+
+GRloop5
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop6
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop7
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop8
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop9
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop10
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop11
+LpObj = 19.0
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop12
+LpObj = 18.666666666666668
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 13/14
+
+GRloop13
+LpObj = 18.5
+14 gates need pricing: 0 1 2 3 4 5 6 7 8 9 10 11 12 13  
+AirpTypeReducedCost >0 Num = 14/14
+
+GRLP CG use time 105.51500000001397
+
+GRIpStatus = Optimal
+GRIPobj = 19
+ 
+SARq = 18.999996999999997, GRobj = 19.0
+LB = 18.999996999999997, UB= 19.0
+ 
+Having used time 224.39000000001397
+---------------------------------
+
+---------------------------------
+Bigloop3
+
+SARLP Column Generation:
+SALPloop1
+LpStatus = Optimal
+LpObj = 433.42857142857133
+4 aircraft need pricing : 0 1 2 3  
+AircReducedCost >0 Num = 4/4
+
+SARLP CG use time 1.437999999965541
+
+SARIpStatus = Optimal
+SARIpObj = 439.000001
+q = 19.000001
+SARq>LB, update LB = 19.000001
+ 
+
+---------------------------------
+LB = 19.000001, UB= 19.0
+Satisfy stop criterion and break;
+Total use time 225.85899999999674
+
+Process finished with exit code 0

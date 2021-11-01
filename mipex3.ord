@@ -1,0 +1,5 @@
+* ENCODING=ISO-8859-1
+NAME          ilog.cplex   Priority Order
+ UP x1                            8
+ DN x3                            7
+ENDATA
